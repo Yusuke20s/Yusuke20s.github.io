@@ -87,12 +87,13 @@ body {
 
 .box2 {
       float: left;
-      width: 60%;
+      width: 50%;
       padding-left: 5%;
+      padding-right: 5%;
 }
 
 .box3 {
       float: left; 
-      width: auto;
+      width: 25%;
       padding-right: 5%;
 }
