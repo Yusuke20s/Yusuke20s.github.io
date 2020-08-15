@@ -50,7 +50,7 @@ body {
 }
 
 .topmenu li {
-      width: 20%;
+      width: auto;
 }
 
 .topmenu li a {
@@ -93,6 +93,6 @@ body {
 
 .box3 {
       float: left; 
-      width: auto;
+      width: 25%;
       padding-right: 5%;
 }
