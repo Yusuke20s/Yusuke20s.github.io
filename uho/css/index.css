@@ -1,0 +1,94 @@
+@charset "UTF-8";
+
+body {
+      margin: 0;
+      font-family: 'メイリオ',
+      'Hiragono Kaku Gothic Pro', sans-sans-serif;
+}
+
+/*TOP*/
+.box1 {
+      background-color: #000000;
+      padding-top: 10px;
+      padding-bottom: 10px;
+}
+
+.box1:after {
+      content: "";
+      display: block;
+      clear: both;
+}
+
+.box1 h1 {
+      color: #ffffff;
+      text-decoration: none;
+      padding-left: 3%;
+      float: left;
+      width: auto;
+}
+
+.box1 h3 {
+      color: #ffffff;
+      text-decoration: none;
+      padding-top: 15px;
+      padding-left: 3%;
+      float: left;
+      width: auto;
+}
+
+
+/*メニュー*/
+.topmenu ul {
+      margin: 0;
+      padding: 0;
+      padding-top: 20px;
+      list-style: none;
+}
+
+.topmenu li {
+      width: auto;
+}
+
+.topmenu li a {
+      display: block;
+      padding: 10px;
+      color: #000000;
+      font-size: 15px;
+      text-decoration: none;
+}
+
+.topmenu li a:hover{
+      background-color: #a9a9a9;
+      padding-left: 20px;
+}
+
+.topmenu ul::after{
+      content: "";
+      display: block;
+      clear: both;
+}
+
+/*説明*/
+.box2 {
+      padding-left: 5%;
+}
+
+
+/*横並び*/
+.boxA:after {
+      content: "";
+      display: block;
+      clear: both;
+}
+
+.box2 {
+      float: left;
+      width: 60%;
+      padding-left: 3%;
+}
+
+.box3 {
+      float: left; 
+      width: auto;
+      padding-right: 3%;
+}
