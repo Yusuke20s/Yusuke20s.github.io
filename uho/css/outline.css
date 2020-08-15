@@ -75,6 +75,21 @@ body {
 /*説明*/
 .box2 {
       padding-left: 5%;
+      padding-bottom: 100px;
+}
+
+.box2 h2 {
+      margin-bottom: 0%;
+}
+
+.box2 h3 {
+      padding-left: 3%;
+      margin-bottom: 5px;
+}
+
+.box2 p {
+      padding-left: 5%;
+      margin: 0%;
 }
 
 
