@@ -62,8 +62,8 @@ body {
 }
 
 .topmenu li a:hover{
-      background-color: #a9a9a9;
-      padding-left: 20px;
+      background-color: #9bbeece3;
+      padding-left: 30px;
 }
 
 .topmenu ul::after{
@@ -109,6 +109,6 @@ body {
 
 .box3 {
       float: left; 
-      width: auto;
+      width: 25%;
       padding-right: 5%;
 }
