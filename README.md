@@ -5,6 +5,5 @@
 https://yusuke20s.github.io/
 
 ## 書いてあること  
----  
 - うほBotについて  
   - [トップページ](https://yusuke20s.github.io/uho/index.html)  
